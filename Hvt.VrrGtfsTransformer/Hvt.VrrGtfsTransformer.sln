@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hvt.VrrGtfsTransformer", "Hvt.VrrGtfsTransformer\Hvt.VrrGtfsTransformer.csproj", "{E1EBEB7E-2374-4DC7-80B6-4D6A8AD74FA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GTFS", "..\..\..\..\..\Repositories\GitHub\Forks\GTFS\src\GTFS\GTFS.csproj", "{38387E8C-0B10-47E8-A094-81E5CF62BF12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1EBEB7E-2374-4DC7-80B6-4D6A8AD74FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1EBEB7E-2374-4DC7-80B6-4D6A8AD74FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1EBEB7E-2374-4DC7-80B6-4D6A8AD74FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1EBEB7E-2374-4DC7-80B6-4D6A8AD74FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38387E8C-0B10-47E8-A094-81E5CF62BF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38387E8C-0B10-47E8-A094-81E5CF62BF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38387E8C-0B10-47E8-A094-81E5CF62BF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38387E8C-0B10-47E8-A094-81E5CF62BF12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9CC517C-F928-41A0-B962-A33E5843F001}
+	EndGlobalSection
+EndGlobal
